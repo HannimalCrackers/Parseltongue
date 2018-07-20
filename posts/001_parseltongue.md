@@ -2,7 +2,7 @@
 
 &nbsp;
 
-I just learned how to create syntax highlighted code blocks on GitHub! I don't know why this is indented weirdly.
+I just learned how to create syntax highlighted code blocks on GitHub! 
 
 &nbsp;
 
