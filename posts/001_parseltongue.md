@@ -1,13 +1,14 @@
 # Adventures in parseltongue
 
 &nbsp;
-I just learned how to create syntax highlighted code blocks on GitHub! Need to edit all content on this page.
+I just learned how to create syntax highlighted code blocks on GitHub!
 
 &nbsp;
 
 
 ### ISO Python IDE to love and cherish
 
+_My futile search for a clean, simple code editor user experience_
 
 #### Terminal 
 Pro: outputs only the info I want to see. I feel like I'm in the Matrix and/or 1997 <br>
