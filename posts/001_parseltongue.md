@@ -212,7 +212,7 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 &nbsp;
 
 ### Something going wrong here with the line breaks
-&nbsp;
+
 
 >>> ''' <br>
 ... As Ralph likes to say <br>
