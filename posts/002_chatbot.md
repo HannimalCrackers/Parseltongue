@@ -1,4 +1,4 @@
-# adventures into chatbots
+# adventure into chatbots
 
 &nbsp;
 &nbsp;
