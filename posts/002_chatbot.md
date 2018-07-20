@@ -19,6 +19,8 @@ Project idea: feeding distinct corpora into different bots. Those bots are array
 
 Or it's a cocktail party, and you can teleport around in VR and interact with VR representations of the bots?
 
+Visual representation of each bot will take into account any bot response to questions "what do you look like?" or "how do you appear?"
+
 
 &nbsp; &nbsp; &nbsp; &nbsp;
   
