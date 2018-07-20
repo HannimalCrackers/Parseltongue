@@ -1,9 +1,11 @@
-#adventures into chatbots
+# adventures into chatbots
 
 &nbsp;
 &nbsp;
 
 Progress so far: identified [Pandorabots](http://www.pandorabots.com) for my first bot foray. Seems credible based on competition success of [Mitsuku](https://www.pandorabots.com/mitsuku/). 
+
+I have created a bot for work content testing. My bot is named Bartleby.
 
 What's annoying is I can no longer see the regular homepage for pandorabots.com. Now that I've started the process of building a bot, the site redirects straight to my dashboard and I can't escaper.
 
