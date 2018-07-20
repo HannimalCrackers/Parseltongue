@@ -44,6 +44,8 @@ Con: SIGH. Extraneous output. When everything runs correctly still get "Process 
 
 Will keep using PyCharm for now.
 
+UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able to find files, and overall seems overkill for the simple practice I'm doing. I've gone back to Spyder. 
+
 
 &nbsp;
 &nbsp;
