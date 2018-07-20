@@ -1,4 +1,4 @@
-# learnin' about chatbots
+#adventures into chatbots
 
 &nbsp;
 &nbsp;
@@ -9,7 +9,13 @@ What's annoying is I can no longer see the regular homepage for pandorabots.com.
 
 About to start the AIML (Artificial Intelligence Markdown Language) [Quick Start](https://playground.pandorabots.com/en/quickstart/).
 
+&nbsp;
 
+### bot thoughts
+
+Feeding distinct corpora into differnt bots. Those bots are arrayed as a dinner party. User can interact with the different bots and see how they respond.
+
+Or it's a cocktail party, and you can teleport around in VR and interact with VR representations of the bots?
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
