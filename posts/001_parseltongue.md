@@ -226,4 +226,4 @@ I don't understand **line breaks and escape characters**. Research later.
 &nbsp; &nbsp; &nbsp; &nbsp;
   
 
-< [There's no place like home](./index.md)
+< [There's no place like home](../index.md)
