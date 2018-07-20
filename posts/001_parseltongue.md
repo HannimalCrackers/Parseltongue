@@ -192,15 +192,21 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 
 &nbsp; &nbsp;
 
-&nbsp; &nbsp; 
+
 
 ## Learn how to call values from dictionaries
 
-```
+```python
 MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
 print(MyColor["hex"])
 ```
+&nbsp;
 
+``` python
+MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
+print(MyColor["hex"])
+```
+&nbsp; &nbsp; 
 
 # Things to be learned
 
