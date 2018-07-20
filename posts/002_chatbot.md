@@ -3,7 +3,7 @@
 &nbsp;
 &nbsp;
 
-Progress so far: identified [Pandorabots](http://www.pandorabots.com) for my first bot foray. Seems credible based on competition success of [Mitsuku](https://www.pandorabots.com/mitsuku/). 
+Progress so far: I will use [Pandorabots](http://www.pandorabots.com) for my first bot foray. Seems credible based on competition success of [Mitsuku](https://www.pandorabots.com/mitsuku/). 
 
 I have created a bot for work content testing. My bot is named Bartleby.
 
@@ -15,7 +15,7 @@ About to start the AIML (Artificial Intelligence Markdown Language) [Quick Start
 
 ### bot thoughts
 
-Feeding distinct corpora into differnt bots. Those bots are arrayed as a dinner party. User can interact with the different bots and see how they respond.
+Project idea: feeding distinct corpora into different bots. Those bots are arrayed as a dinner party. User can interact with the different bots and see how they respond.
 
 Or it's a cocktail party, and you can teleport around in VR and interact with VR representations of the bots?
 
