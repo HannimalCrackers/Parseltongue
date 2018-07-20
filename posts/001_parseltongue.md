@@ -52,21 +52,21 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 &nbsp;
 
 #### Polite math bot
+```python
+num = int(input("Hello, let's do some division. Please tell me a number. "))
+print("Thank you for the number", num, ".")
 
-num = int(input("Hello, let's do some division. Please tell me a number. ")) <br>
-print("Thank you for the number", num, ".") <br>
+check = int(input("Hello, what number would you like me to divide that by? "))
+print("Thank you. You'd like me to divide", num, "by", check, ".")
 
-check = int(input("Hello, what number would you like me to divide that by? ")) <br>
-print("Thank you. You'd like me to divide", num, "by", check, ".") <br>
-
-if num % check == 0: <br>
-    &nbsp; &nbsp; ans = num/check <br>
-    &nbsp; &nbsp; print ("\n") <br>
-    &nbsp; &nbsp; print (num, "divided by", check, "is", int(ans), ". ") <br>
-else: <br>
-    &nbsp; &nbsp; print ("\n") <br>
-    &nbsp; &nbsp; print("I'm sorry. That's too hard.") <br>
-
+if num % check == 0:
+    &nbsp; &nbsp; ans = num/check
+    &nbsp; &nbsp; print ("\n")
+    &nbsp; &nbsp; print (num, "divided by", check, "is", int(ans), ". ")
+else:
+    &nbsp; &nbsp; print ("\n")
+    &nbsp; &nbsp; print("I'm sorry. That's too hard.")
+```
 &nbsp;
 &nbsp;
 
@@ -84,19 +84,14 @@ else:
 &nbsp;
 
 #### My first Python script
-name = input("Hello, what is your name? ") <br>
-age = input("Hello again, how old are you? ") <br>
-age = int(age) <br>
-year = str((100-age)+2018) <br>
-print ("\n") <br>
+```python
+name = input("Hello, what is your name? ")
+age = input("Hello again, how old are you? ")
+age = int(age)
+year = str((100-age)+2018)
+print ("\n")
 print ("Hello, " + name + ". You will be 100 years old this time of year in " + year + ".")
-
-
-
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-
-Markdown is interacting with my copy/paste Python from Terminal. Having to manually insert indents and line breaks. Some may be missing. This is really not the best format for this material.
+```
 
 &nbsp; &nbsp;
 
@@ -104,8 +99,10 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 
 &nbsp; &nbsp;
 
->>> Earnest = 10000 <br>
->>> print(Earnest)
+```python
+Earnest = 10000
+print(Earnest)
+```
 #### 10000
 
 &nbsp;
