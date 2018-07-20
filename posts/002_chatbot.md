@@ -7,9 +7,9 @@ Progress so far: I will use [Pandorabots](http://www.pandorabots.com) for my fir
 
 I have created a bot for work content testing. My bot is named Bartleby.
 
-What's annoying is I can no longer see the regular homepage for pandorabots.com. Now that I've started the process of building a bot, the site redirects straight to my dashboard and I can't escaper.
+What's annoying is I can no longer see the regular homepage for pandorabots.com. Now that I've started the process of building a bot, the site redirects straight to my dashboard and I can't escape.
 
-About to start the AIML (Artificial Intelligence Markdown Language) [Quick Start](https://playground.pandorabots.com/en/quickstart/).
+Next step: complete the AIML (Artificial Intelligence Markdown Language) [Quick Start](https://playground.pandorabots.com/en/quickstart/).
 
 &nbsp;
 
