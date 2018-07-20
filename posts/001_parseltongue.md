@@ -196,8 +196,6 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 #### Little ; orange ; sunshine
 
 
-&nbsp;
-
 &nbsp; 
 
 >>> x = "Earnest loves {} and {}." <br>
@@ -213,7 +211,7 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 
 &nbsp;
 
-## Something going wrong here with the line breaks
+### Something going wrong here with the line breaks
 &nbsp;
 
 >>> ''' <br>
