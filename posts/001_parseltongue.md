@@ -99,10 +99,9 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 
 &nbsp; &nbsp;
 
-```python
-Earnest = 10000
-print(Earnest)
-```
+
+>>> Earnest = 10000 <br>
+>>> print(Earnest)
 #### 10000
 
 &nbsp;
@@ -115,6 +114,8 @@ print(Earnest)
 
 >>> print("Duvel" + "Bear")
 #### DuvelBear
+
+&nbsp;
 
 >>> print ("Duvel " + "Bear")
 #### Duvel Bear
@@ -165,23 +166,17 @@ print(Earnest)
 >>> print (Duvel.split())
 #### ['Little', 'orange', 'sunshine']
 &nbsp;
+
 >>> NewList = (Duvel.split())
 >>> print (NewList)
 #### ['Little', 'orange', 'sunshine']
 &nbsp;
+
 >>> print (" ; ".join(NewList))
 #### Little ; orange ; sunshine
 
 
 &nbsp;
-
->>> name, hex = "Seafoam Blue", "89BBBC" <br>
->>> print (name)
-#### Seafoam Blue
->>> print (hex)
-#### 89BBBC
->>> print ("#" + hex)
-#### #89BBBC
 
 &nbsp; 
 
