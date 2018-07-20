@@ -6,7 +6,7 @@ I just learned how to create syntax highlighted code blocks on GitHub!
 &nbsp;
 
 
-### ISO Python IDE to love and cherish
+## 1. ISO Python IDE to love and cherish
 
 _My futile search for a clean, simple code editor user experience_
 
@@ -51,6 +51,10 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 
 &nbsp;
 &nbsp;
+
+## 2. Practice code
+
+### 2b. More practice code
 
 #### Polite math bot
 ```python
@@ -188,8 +192,7 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 &nbsp; &nbsp;
 
 
-
-## Learn how to call values from dictionaries
+## Calling values from dictionaries
 
 ```python
 MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
