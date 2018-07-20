@@ -54,6 +54,21 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 
 ## 2. Practice code
 
+&nbsp;
+### 2c. Calling values from dictionaries
+
+```python
+MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
+print(MyColor["hex"])
+```
+&nbsp;
+
+``` python
+MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
+print(MyColor["hex"])
+```
+&nbsp; &nbsp; 
+
 ### 2b. More practice code
 
 #### Polite math bot
@@ -100,7 +115,7 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 
 &nbsp; &nbsp;
 
-## Mathing with pet names
+### 2a. Mathing with pet names
 
 &nbsp; &nbsp;
 
@@ -192,21 +207,9 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 &nbsp; &nbsp;
 
 
-## Calling values from dictionaries
 
-```python
-MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
-print(MyColor["hex"])
-```
-&nbsp;
 
-``` python
-MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
-print(MyColor["hex"])
-```
-&nbsp; &nbsp; 
-
-# Things to be learned
+## 3. Things to be learned
 
 &nbsp;
 
