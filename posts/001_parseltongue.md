@@ -1,7 +1,8 @@
 # Adventures in parseltongue
 
 &nbsp;
-_so apparently there's a way to display code in github pages. I need to explore that, then update this page._
+I just learned how to create syntax highlighted code blocks on GitHub! Need to edit all content on this page.
+
 &nbsp;
 
 
@@ -70,14 +71,15 @@ else: <br>
 &nbsp;
 
 #### Tell me a number
-num = int(input("Hello, tell me a number: ")) <br>
-print("Thank you.") <br>
+```python
+num = int(input("Hello, tell me a number: "))
+print("Thank you.")
 
 if num % 2 == 0: <br>
-    &nbsp; &nbsp; print ("That was an even number.") <br>
-else: <br>
+    &nbsp; &nbsp; print ("That was an even number.")
+else:
     &nbsp; &nbsp; print("That was an odd number.")
-
+```
 &nbsp;
 &nbsp;
 
