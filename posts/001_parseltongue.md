@@ -1,7 +1,8 @@
 # Adventures in parseltongue
 
 &nbsp;
-I just learned how to create syntax highlighted code blocks on GitHub!
+
+I just learned how to create syntax highlighted code blocks on GitHub! I don't know why this is indented weirdly.
 
 &nbsp;
 
