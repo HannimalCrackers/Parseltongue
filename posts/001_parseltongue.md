@@ -210,11 +210,11 @@ print(MyColor["hex"])
 &nbsp;
 
 >>> ''' <br>
-... As the wise Ralph said <br>
+... As Ralph likes to say <br>
 ... My cats breath smells like cat food <br>
 ... This was a haiku <br>
 ... '''
-#### '\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
+#### '\nAs Ralph likes to say\nMy cats breath smells like cat food\nThis was a haiku\n'
 &nbsp;
 
 I don't understand **line breaks and escape characters**. Research later.
