@@ -1,7 +1,7 @@
 # Adventures in parseltongue
 
 &nbsp;
-so apparently there's a way to display code in github pages. need to explore, then update this page.
+_so apparently there's a way to display code in github pages. I need to explore that, then update this page._
 &nbsp;
 
 
