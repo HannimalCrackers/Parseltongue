@@ -192,6 +192,16 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 
 &nbsp; &nbsp;
 
+&nbsp; &nbsp; 
+
+## Learn how to call values from dictionaries
+
+```
+MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
+print(MyColor["hex"])
+```
+
+
 # Things to be learned
 
 &nbsp;
@@ -209,21 +219,6 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 
 I don't understand **line breaks and escape characters**. Research later.
 
-&nbsp; &nbsp; 
-
-## Learn how to call values from dictionaries
-
->>> MyColor = {'name': 'seafoam blue', 'hex': '89BBBC'} <br>
->>> print(MyColor.hex)
-#### Traceback (most recent call last):
-#### File "<stdin>", line 1, in <module>
-#### AttributeError: 'dict' object has no attribute 'hex' <br>
->>> print(hex.MyColor)
- 
-#### Traceback (most recent call last):
-#### File "<stdin>", line 1, in <module>
-#### AttributeError: 'builtin_function_or_method' object has no attribute 'MyColor'
->>> 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
   
