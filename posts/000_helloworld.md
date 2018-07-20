@@ -27,4 +27,4 @@ Hello world?
 &nbsp;
   
 
-< [escape from here](../../index.md)
+< [escape from here](../index.md)
