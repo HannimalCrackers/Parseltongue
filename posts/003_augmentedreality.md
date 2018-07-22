@@ -3,7 +3,7 @@
 &nbsp;
 &nbsp;
 
-I'm interested in dipping a toe into layering virtual content over reality with AR. I just signed up for a personal account with (ZapWorks)[https://zap.works].
+I'm interested in dipping a toe into layering virtual content over reality with AR. I just signed up for a personal account with [ZapWorks](https://zap.works).
 
 One hurdle I expect to encounter – I don't have any experience creating or working with 3D models.
 
