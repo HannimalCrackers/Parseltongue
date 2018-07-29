@@ -56,6 +56,20 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 ## 2. Practice code
 
 &nbsp;
+
+### 2d. List comprehensions
+
+```python
+set = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+
+evens = [num for num in set if num%2==0]
+
+print(evens)
+```
+&nbsp;
+&nbsp;
+
+
 ### 2c. Calling values from dictionaries
 
 ```python
