@@ -57,6 +57,23 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 
 &nbsp;
 
+
+### 2e. Loops
+
+While loop
+
+```
+enter = input("Speak friend and enter. ")
+while enter != "friend":
+    enter = input("Speak friend and enter. ")
+else:
+    print ("\n")
+    print ("Welcome to Moria!")
+```
+&nbsp;
+&nbsp;
+
+
 ### 2d. List comprehensions
 
 ```python
