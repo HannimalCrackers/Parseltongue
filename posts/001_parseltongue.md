@@ -65,8 +65,8 @@ print(MyColor["hex"])
 &nbsp;
 
 ``` python
-MyColor = {"name": "seafoam blue", "hex": "#89BBBC"} 
-print(MyColor["hex"])
+BrandBlue = {"name": "seafoam blue", "hex": "#89BBBC"} 
+print("The correct hex formula for Brand Blue is", BrandBlue["hex"])
 ```
 &nbsp; &nbsp; 
 
