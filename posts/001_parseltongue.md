@@ -72,6 +72,19 @@ print("The correct hex formula for Brand Blue is", BrandBlue["hex"])
 
 ### 2b. More practice code
 
+#### Is it a palindrome?
+```python
+test = input("Hello, please type in a word. ")
+
+if test[0:] == test[::-1]:
+    print("Hello, ", test, "is a palindrome.")
+else:
+    print("Hello, ", test, "is not a palindrome.")
+```
+&nbsp;
+&nbsp;
+
+
 #### Polite math bot
 ```python
 num = int(input("Hello, let's do some division. Please tell me a number. "))
