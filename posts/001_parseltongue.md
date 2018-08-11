@@ -63,8 +63,10 @@ UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able t
 While loop
 
 ```python
+opts = ["friend", "Friend"]
+        
 enter = input("Speak friend and enter. ")
-while enter != "friend":
+while enter not in opts:
     enter = input("Speak friend and enter. ")
 else:
     print ("\n")
