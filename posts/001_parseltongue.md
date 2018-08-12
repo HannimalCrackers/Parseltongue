@@ -12,12 +12,12 @@ I just learned how to create syntax highlighted code blocks on GitHub!
 _My futile search for a clean, simple code editor user experience_
 
 #### Terminal 
-Pro: outputs only the info I want to see. I feel like I'm in the Matrix and/or 1997 <br>
+Pros: outputs only the info I want to see. Also, I feel like I'm in the Matrix and/or 1997. <br>
 Con: can't edit inline <br>
 
 #### Spyder
 Pro: seems cool <br>
-Cons: not launching in my Python 2.7 env for some reason. Also, the runfile paths printing doubled up in the console at every single run makes it hard to read output <br>
+Con: the runfile path/directory printing doubled up in the console at every single run makes it hard to read output <br>
 
 Example: print (2+5) <br>
 yields: runfile('/Users/hhouse/.spyder-py3/temp.py', wdir='/Users/hhouse/.spyder-py3')
@@ -43,12 +43,11 @@ Con: Needs other things loaded or added in order to accept inputs
 The version I downloaded is free and has a good rep. About to test it out. Maybe 7th time's the (py)charm! <br>
 
 Pro: "Run" is a clearly displayed option in the menu toolbar. Easy to find! <br>
-Con: SIGH. Extraneous output. When everything runs correctly still get "Process finished with exit code 0" message. It's annoying, but it seems like I can't escape this output quirk. 
+Con: SIGH. Extraneous output. When everything runs correctly still get "Process finished with exit code 0" message. It's annoying, but it seems like I can't escape this output quirk in any option.
 
-Will keep using PyCharm for now.
+UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able to find files, and overall seems overkill for the simple practice I'm doing. I've gone back to Spyder. <br>
 
-UPDATE: PyCharm turned into a massive headache. It suddenly stopped being able to find files, and overall seems overkill for the simple practice I'm doing. I've gone back to Spyder. 
-
+### Currently using Spyder
 
 &nbsp;
 &nbsp;
