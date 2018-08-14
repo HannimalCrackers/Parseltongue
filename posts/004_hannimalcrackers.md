@@ -12,7 +12,7 @@ I set up a hosting package with inmotion hosting because CNET recommended them a
 
 I wrote a quick hello HTML to test that all is working. Success.
 
-![screenshot]({{site.url}}{{site.baseurl}}/img/helloworld.png)
+![screenshot]({{site.url}}/parseltongue/img/helloworld.png)
 
 ![screenshot](https://raw.githubusercontent.com/HannimalCrackers/parseltongue/master/img/helloworld.png)
 
