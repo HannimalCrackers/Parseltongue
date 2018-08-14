@@ -23,7 +23,7 @@ I registered the domain www.hannimalcrackers.com 5 or 6 months ago through Squar
 
 I set up a hosting package with inmotion hosting because CNET recommended them and ¯\\_(ツ)_/¯. I planned to transfer management of the hannimalcrackers.com domain over to inmotion as well, but I would have had to take my privacy off it and set that back up again, which sounded like a pain, so instead I just pointed the nameservers to inmotion.
 
-I wrote a quick hello HTML to test that all is working. Success. I also created an animal cracker favicon by outlining a photo of an animal cracker in Photoshop.
+I wrote a quick hello HTML to test that all is working. Success. I also created an animal cracker favicon by outlining a photo of an animal cracker in Photoshop. A [free generator](http://tools.dynamicdrive.com/favicon/) output the .ico file.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/helloworld.png)
 
