@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: adventures in parseltongue
+baseurl: "/parseltongue"
+url: "http://hannimalcrackers.github.io" 
