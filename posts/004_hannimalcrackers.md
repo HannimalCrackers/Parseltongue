@@ -4,7 +4,33 @@
 &nbsp;
 &nbsp;
 
-## "progress" 180814: curses and fake things
+
+## 180815: a.m.
+&nbsp;
+
+WSGI [can run in environments](https://modwsgi.readthedocs.io/en/develop/user-guides/virtual-environments.html). There are instructions to configure WSGI. Not sure, but I think this is code added to WSGI app file.
+
+Giving this a try. Not sure if I'm including the right amount of detail in the paths.
+```python
+from myapp import app as application
+
+WSGIDaemonProcess myapp
+
+WSGIProcessGroup myapp
+WSGIApplicationGroup %{GLOBAL}
+
+WSGIScriptAlias /Users/hhouse/anaconda3/envs/hannimalcrackers-com/myapp/myapp.wsgi
+
+<Directory /Users/hhouse/anaconda3/envs/hannimalcrackers-com>
+    Require all granted
+</Directory>
+```
+
+&nbsp;
+&nbsp;
+
+
+## 180814: curses and fake things
 &nbsp;
 
 Tonight I want to figure out how to install/use Apache and [mod_wsgi](https://pypi.org/project/mod_wsgi/) in the Anaconda environment I set up last night. <br>
@@ -34,7 +60,7 @@ Been spinning my wheels trying to figure this out. So frustrating. Maybe I shoul
 &nbsp;
 &nbsp;
 
-## progress 180813
+## 180813
 &nbsp;
 
 
@@ -51,7 +77,7 @@ In the meantime, I've updated my homepage index file to note the impending chang
 &nbsp;
 
 
-## progress 180812
+## 180812
 &nbsp;
 
 
