@@ -25,6 +25,8 @@ WSGIScriptAlias /Users/hhouse/anaconda3/envs/hannimalcrackers-com/myapp/myapp.ws
     Require all granted
 </Directory>
 ```
+--<br>
+No dice. Still getting a 502 error. Have to go to work. Try again later.
 
 &nbsp;
 &nbsp;
