@@ -24,13 +24,14 @@ This is probably a problem, but I don't know what to do about it. [Tried another
 Wait, why is my environment full of curses and fake things?
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/fakeandcurses.png)
 
-Been spinning my wheels trying to figure this out. So frustrating. Maybe I shouldn't have installed wsgi in the environment? That's my only guess right now. Calling it a night. 
+This is the error. Terminal reports it as a 502.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/fail_180814.png)
 
+Been spinning my wheels trying to figure this out. So frustrating. Maybe I shouldn't have installed wsgi in the environment? That's my only guess right now. I did just discover wsgi installed some [user guides](/Users/hhouse/anaconda3/envs/HannimalCrackers-com/lib/python3.6/site-packages/mod_wsgi/docs/_sources/user-guides/checking-your-installation.rst.txt) so checking those out tomorrow. Calling it a night. 
+
 
 &nbsp;
-
 &nbsp;
 
 ## progress 180813
