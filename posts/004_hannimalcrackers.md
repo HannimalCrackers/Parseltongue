@@ -4,11 +4,23 @@
 &nbsp;
 &nbsp;
 
+### progress 180814
+
+Tonight I want to figure out how to install/use Apache and [mod_wsgi](https://pypi.org/project/mod_wsgi/) in the Anaconda environment I set up last night.
+Ok, word is Apache is already in Mac OSX. Digging around online, it looks like I'm going to need to pip install mod_wsgi, so activating my environment in Terminal and using pip to install there. I still feel so bold working in Terminal. Or really brash, since I'm not confident. Hmm, I just upgraded pip from v10 to v18 because I was prompted. May have only upgraded it within the environment? Not sure. Idk how any of this works.
+Tested the mod_wsgi installation with $ mod_wsgi-express start-server and checked my browser. Ha, looks like it worked.
+
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/mod_wsgi_works.png)
+
+
+
+&nbsp;
+
 ### progress 180813
 
 Set up Google Analytics and added the code to the index.html file to test it out. Reading my 1 visitor (myself). I'm going with Flask as a framework. Having less built in will help/force me to learn what the different components do. I conda installed Flask and set up a Hello World Flask file. It worked running locally. Then I realized I should be working in a virtual environment, so I set one up in Anaconda.
 
-To deploy Flask I need a webserver. Will probably go with Apache, since I've heard of it before and, while I want to learn, I don't want to go down a deep rabbit hole at every single decision point. However, having skimmed the [deployment](http://flask.pocoo.org/docs/1.0/deploying/#deployment) instructions, I'm not clear on how this goes. I'll need to read the instructions, including pointing to my virtual env, more closely when I pick this back up.
+To deploy Flask I need a webserver. Will probably go with Apache, since I've heard of it before and, while I want to learn, I don't want to go down a deep rabbit hole at every single decision point. However, having skimmed the [deployment](http://flask.pocoo.org/docs/1.0/deploying/#deployment) instructions, I'm not clear on how this goes. I'll need to read the instructions, including pointing to my environment, more closely when I pick this back up.
 
 In the meantime, I've updated my homepage index file to note the impending change.
 
