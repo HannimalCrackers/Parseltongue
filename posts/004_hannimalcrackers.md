@@ -7,12 +7,18 @@
 ### progress 180814
 
 Tonight I want to figure out how to install/use Apache and [mod_wsgi](https://pypi.org/project/mod_wsgi/) in the Anaconda environment I set up last night. <br>
-Ok, word is Apache is already in Mac OSX. Digging around online, it looks like I'm going to need to pip install mod_wsgi, so activating my environment in Terminal and using pip to install there. I still feel so bold working in Terminal. Or really brash, since I'm not confident. Hmm, I just upgraded pip from v10 to v18 because I was prompted. May have only upgraded it within the environment? Not sure. Idk how any of this works. <br>
+Ok, word is Apache is already in Mac OSX. Digging around online, it looks like I'm going to need to pip install mod_wsgi, so activating my environment in Terminal and using pip to install there. I still feel so bold working in Terminal. Well, brash, really, since I'm not confident. Hmm, I just upgraded pip from v10 to v18 because I was prompted. May have only upgraded it within the environment? Not sure. Idk how any of this works. <br>
 Tested the mod_wsgi installation with $ mod_wsgi-express start-server and checked my browser. Ha, looks like it worked.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/mod_wsgi_works.png)
 
+Is this pronouced 'wise guy', perhaps? <br>
+<br>
+This wsgi.py test seems to be failing  $ mod_wsgi-express start-server wsgi.py --port 8080 <br>
+<br>
 
+Wait, why is my environment full of curses and fake things?
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/fakeandcurses.png)
 
 &nbsp;
 
