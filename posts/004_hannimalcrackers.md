@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-### "progress" 180814: curses and fake things
+## "progress" 180814: curses and fake things
 
 Tonight I want to figure out how to install/use Apache and [mod_wsgi](https://pypi.org/project/mod_wsgi/) in the Anaconda environment I set up last night. <br>
 <br>
@@ -23,7 +23,7 @@ This is probably a problem, but I don't know what to do about it. [Tried another
 Wait, why is my environment full of curses and fake things?
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/fakeandcurses.png)
 
-Been spinning my wheels trying to figure this out. Calling it a night. Maybe I shouldn't have installed wsgi in the environment? That's my only guess right now.
+Been spinning my wheels trying to figure this out. So frustrating. Maybe I shouldn't have installed wsgi in the environment? That's my only guess right now. Calling it a night. 
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/fail_180814.png)
 
@@ -31,7 +31,7 @@ Been spinning my wheels trying to figure this out. Calling it a night. Maybe I s
 
 &nbsp;
 
-### progress 180813
+## progress 180813
 
 Set up Google Analytics and added the code to the index.html file to test it out. Reading my 1 visitor (myself). I'm going with Flask as a framework. Having less built in will help/force me to learn what the different components do. I conda installed Flask and set up a Hello World Flask file. It worked running locally. Then I realized I should be working in a virtual environment, so I set one up in Anaconda.
 
@@ -44,7 +44,7 @@ In the meantime, I've updated my homepage index file to note the impending chang
 
 &nbsp;
 
-### progress 180812
+## progress 180812
 
 I registered the domain www.hannimalcrackers.com 5 or 6 months ago through Squarespace and pointed it at that time to my Squarespace graphics portfolio site. I've since been learning Python (aka parseltongue) and want to build a website to host my Python projects. I'll be using the hannimalcrackers.com domain for this new site.
 
