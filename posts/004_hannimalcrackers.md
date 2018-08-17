@@ -5,6 +5,17 @@
 &nbsp;
 
 
+## 180816
+&nbsp;
+
+WSGI is killing me.
+
+
+
+&nbsp;
+&nbsp;
+
+
 ## 180815: a.m.
 &nbsp;
 
