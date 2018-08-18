@@ -142,9 +142,9 @@ num = int(input("Hello, tell me a number: "))
 print("Thank you.")
 
 if num % 2 == 0: 
-    &nbsp; &nbsp; print ("That was an even number.")
+    print ("That was an even number.")
 else:
-    &nbsp; &nbsp; print("That was an odd number.")
+    print("That was an odd number.")
 ```
 &nbsp;
 &nbsp;
