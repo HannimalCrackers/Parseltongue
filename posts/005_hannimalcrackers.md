@@ -34,6 +34,8 @@ Voilà!
 
 Ultimately I want this to be interactive in the browser, but it runs in terminal and returns a thank you in the browser. Yay!
 
+I still have to figure out [deployment](http://flask.pocoo.org/docs/1.0/deploying/). Maybe I should look into a hosted option, like Heroku or something.
+
 &nbsp;
 &nbsp;
 
@@ -62,7 +64,7 @@ Tested by relaunching Terminal.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/hellohello_180817.png)
 
-I'm going to see if I can get a polite math bot python script to run!
+I'm going to see if I can get a polite math bot python script to run.
 
 &nbsp;
 &nbsp;
