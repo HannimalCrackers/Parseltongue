@@ -5,6 +5,22 @@
 &nbsp;
 
 
+## 180817
+&nbsp;
+
+Ok, what I discovered yesterday troubleshooting with [this site](file:///Users/hhouse/anaconda3/envs/HannimalCrackers-com/lib/python3.6/site-packages/mod_wsgi/docs/user-guides/checking-your-installation.html) is that mod_wsgi is not showing up as a module added to Apache when I call $ /usr/sbin/httpd -M
+
+Is this because it's in a virtual environment? I don't know. Having tried and failed more troubleshooting, I now can't even get the page with the bottle to load. Deleting the virtual environment and creating a new one to start fresh.
+
+Ok, following the [Flask installation instructions](http://flask.pocoo.org/docs/1.0/quickstart/) I now have a Hello World running.
+
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/helloworld180817.png)
+
+
+&nbsp;
+&nbsp;
+
+
 ## 180816
 &nbsp;
 
