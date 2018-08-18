@@ -12,8 +12,11 @@
 I don't think this will work. I just want to see what happens.
 
 1. Created new virtual environment. I'm still using Anaconda for this. Don't need to. Of note: Anaconda installs pip 10, so that needs upgrading.
-<br>
+
+
 2. Upgrade pip. 
+
+
 ```
 $ pip install --upgrade pip
 ```
