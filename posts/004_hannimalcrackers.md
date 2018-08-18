@@ -1,11 +1,41 @@
 
 # setting up hannimalcrackers.com
 
+
 &nbsp;
 &nbsp;
 
 
-## 180817
+## 180817: polite math bot test
+&nbsp;
+
+I don't think this will work. I just want to see what happens.
+
+1. Created new virtual environment. I'm still using Anaconda for this. Don't need to. Of note: Anaconda installs pip 10, so that needs upgrading.
+<br>
+2. Upgrade pip. 
+```
+$ pip install --upgrade pip
+```
+
+3. install Flask
+```
+$ pip install flask
+```
+
+4. umm....  create a subfolder for the app, bring the python file for the polite math bot over, copy the wsgi and other files/structure from the successful Hello World. Let's see... I'll add the polite math bot's division code to the routes file. Create a .flaskenv file.
+
+Voilà!
+
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/mathbotworks_180817.png)
+
+Ultimately I want this to be interactive in the browser, but it runs in terminal and returns a thank you in the browser. Yay!
+
+&nbsp;
+&nbsp;
+
+
+## 180817: helloing the world
 &nbsp;
 
 Ok, what I discovered yesterday troubleshooting with [this site](file:///Users/hhouse/anaconda3/envs/HannimalCrackers-com/lib/python3.6/site-packages/mod_wsgi/docs/user-guides/checking-your-installation.html) is that mod_wsgi is not showing up as a module added to Apache when I call $ /usr/sbin/httpd -M
