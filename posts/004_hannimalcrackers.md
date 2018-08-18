@@ -11,7 +11,7 @@
 
 I don't think this will work. I just want to see what happens.
 
-1. Created new virtual environment. I'm still using Anaconda for this. Don't need to. Of note: Anaconda installs pip 10, so that needs upgrading.
+1. Created new virtual environment. I'm still using Anaconda for this though I don't need to. Of note: Anaconda installs pip 10, so that needs upgrading.
 
 
 2. Upgrade pip. 
