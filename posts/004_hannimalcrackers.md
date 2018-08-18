@@ -12,10 +12,18 @@ Ok, what I discovered yesterday troubleshooting with [this site](file:///Users/h
 
 Is this because it's in a virtual environment? I don't know. Having tried and failed more troubleshooting, I now can't even get the page with the bottle to load. Deleting the virtual environment and creating a new one to start fresh.
 
-Ok, following the [Flask installation instructions](http://flask.pocoo.org/docs/1.0/quickstart/) I now have a Hello World running.
+----
+
+Ok, new day, new env, new me. Following the [Flask installation instructions](http://flask.pocoo.org/docs/1.0/quickstart/) I now have a Hello World running.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/helloworld180817.png)
 
+
+I'm going to go through [this tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). So far so good. Have a slightly more complex file structure successfully producing a Hello World. **Also installed python-dotenv and successfully created a .flaskenv file so I don't have to set FLASK_APP environment variable every time I relaunch terminal.** Tested by relaunching Terminal.
+
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/hellohello_180817.png)
+
+I'm going to see if I can get a polite math bot python script to run!
 
 &nbsp;
 &nbsp;
