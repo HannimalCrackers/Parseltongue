@@ -19,7 +19,13 @@ Ok, new day, new env, new me. Following the [Flask installation instructions](ht
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/helloworld180817.png)
 
 
-I'm going to go through [this tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). So far so good. Have a slightly more complex file structure successfully producing a Hello World. **Also installed python-dotenv and successfully created a .flaskenv file so I don't have to set FLASK_APP environment variable every time I relaunch terminal.** Tested by relaunching Terminal.
+I'm going to go through [this tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). 
+
+So far so good. Have a slightly more complex file structure successfully producing a Hello World. 
+
+#### Also installed python-dotenv and successfully created a .flaskenv file so I don't have to set FLASK_APP environment variable every time I relaunch terminal. 
+
+Tested by relaunching Terminal.
 
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/hellohello_180817.png)
 
