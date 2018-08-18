@@ -126,12 +126,12 @@ check = int(input("Hello, what number would you like me to divide that by? "))
 print("Thank you. You'd like me to divide", num, "by", check, ".")
 
 if num % check == 0:
-    &nbsp; &nbsp; ans = num/check
-    &nbsp; &nbsp; print ("\n")
-    &nbsp; &nbsp; print (num, "divided by", check, "is", int(ans), ". ")
+    ans = num/check
+    print ("\n")
+    print (num, "divided by", check, "is", int(ans), ". ")
 else:
-    &nbsp; &nbsp; print ("\n")
-    &nbsp; &nbsp; print("I'm sorry. That's too hard.")
+    print ("\n")
+    print("I'm sorry. That's too hard.")
 ```
 &nbsp;
 &nbsp;
