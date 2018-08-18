@@ -1,7 +1,9 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
 
-#### [hannimalcrackers.com](./posts/004_hannimalcrackers.md)
+#### [hannimalcrackers.com](./posts/005_hannimalcrackers.md)
+
+#### [google vision sees things](./posts/004_googlevision.md)
 
 #### [adventure into chatbots](./posts/002_chatbot.md)
 
