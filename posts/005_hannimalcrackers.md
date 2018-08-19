@@ -6,6 +6,16 @@
 &nbsp;
 
 
+## 180818
+&nbsp;
+It is crazy humid and I keep smelling ketones.
+
+On to [part II of the Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates).
+
+&nbsp;
+&nbsp;
+
+
 ## 180817: polite math bot test
 &nbsp;
 
@@ -54,7 +64,7 @@ Ok, new day, new env, new me. Following the [Flask installation instructions](ht
 ![screenshot](http://hannimalcrackers.github.io/parseltongue/img/helloworld180817.png)
 
 
-I'm going to go through [this tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). 
+I'm going to go through [this Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). 
 
 So far so good. Have a slightly more complex file structure successfully producing a Hello World. 
 
