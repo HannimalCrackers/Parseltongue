@@ -6,11 +6,22 @@
 &nbsp;
 
 
+## 180819
+&nbsp;
+Sitting in JFK waiting to board a flight to Iceland. Continuing with [part II of the Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates).
+
+
+&nbsp;
+&nbsp;
+
+
 ## 180818
 &nbsp;
 It is crazy humid and I keep smelling ketones.
 
 On to [part II of the Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates).
+
+Got partway through.
 
 &nbsp;
 &nbsp;
