@@ -10,6 +10,11 @@
 &nbsp;
 Sitting in JFK waiting to board a flight to Iceland. Continuing with [part II of the Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates).
 
+Switching examples to be about my pets keep the coding interesting to me.
+
+![screenshot](http://hannimalcrackers.github.io/parseltongue/img/180819_templateposts.png)
+
+
 
 &nbsp;
 &nbsp;
