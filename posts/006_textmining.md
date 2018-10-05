@@ -11,14 +11,13 @@ I'm trying to do something productive with how sick I feel at how hostile Americ
 
 ### process
 
+For this project I examined Senators' public statements on the Kavanaugh nomination in the wake of Dr. Christine Blasey Ford's accusations. 
+
 My working list of Senators is from an XML file I downloaded from the United States Senate website. https://www.senate.gov/general/contact_information/senators_cfm.cfm
 
-I opened the XML file in Excel and removed information not relevant to my text mining project, such as each Senate member's office address. I kept each member's last name, first name, state represented, party affiliation, and official webpage URL.
+I opened the XML file in Excel and removed information not relevant to my text mining project, such as each Senate member's office address. I kept each member's last name, first name, state represented, party affiliation, and official webpage URL. All data has been posted online to Google Sheets [URL here]
 
-My corpus for analysis came from searching the term "Kavanaugh" on each Senator's official website using their search function. I initially planned on harvesting results from September 15, 2018 through 5:00pm EST today, October 5, 2018, however I was immediately thwarted on the first Senate website I visited. Lamar Alexander's website returned 611 results for "Kavanaugh" with no indication of how they were sorted. I could only tell that it wasn't by date. I changed course and decided to review the first 20 results on each page and harvest the first (up to three) direct, formally issues press release statements about Kavanaugh issued on September 15, 2018 or thereafter from each Senator's website. Some Senators (e.g., Barrasso) had fewer formal statements, preferring instead to deliver their opinions in speeches or on news shows. I did not include speeches, video, news articles or op-eds in my results. I only included formal statements. For instances in which statements included quoted text and text outside of quotes, I included only the quoted text.
-
-Senate websites were particularly slow to respond. I don't know if this is always the case or if it was getting overrun in the wake of Susan Collins statement that she intends to vote to confirm Kavanaugh.
-
+My corpus for analysis came from searching the term "Kavanaugh" on each Senator's official website using their search function. I reviewed the first 20 search results on each website and harvested the first (up to three) which met my criteria. My criteria were that they be direct, formal press released statements about Kavanaugh issued on or after September 15, 2018. Some Senators had few or no formal statements in that period. I did not include speeches, video, news articles or shows, or op-eds in my results. I only included formal statements. For instances in which statements included quoted text and text outside of the quote area, I included only the quote area.
 
 *Bob Corker did not have a search function on his page. I took manually scanned the titles in the News section of his site to find results.
 
