@@ -1,6 +1,8 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
 
+#### [text mining](./posts/006_textmining.md)
+
 #### [hannimalcrackers.com](./posts/005_hannimalcrackers.md)
 
 #### [google vision sees things](./posts/004_googlevision.md)
