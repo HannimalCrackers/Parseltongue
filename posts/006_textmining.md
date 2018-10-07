@@ -17,7 +17,7 @@ I built my corpus for analysis by visiting every single one of the 99* official 
 
 I have publicly posted all of my data and results.
 
-My working list of Senators and their official websites is from (an XML file)[https://www.senate.gov/general/contact_information/senators_cfm.cfm] from the United States Senate website. 
+My working list of Senators and their official websites is from [an XML file I downloaded](https://www.senate.gov/general/contact_information/senators_cfm.cfm) from the United States Senate website. 
 
 I opened the XML file in Excel and removed information not relevant to my text mining project, such as each Senate member's office address. I kept each member's last name, first name, state represented, party affiliation, and official webpage URL. This is my master list, posted to Google Sheets here [https://docs.google.com/spreadsheets/d/12Ru1n23UvRC4Dn5ZDsfuveKO-VihdlgiO_r8CfctTjg/edit?usp=sharing].
 
