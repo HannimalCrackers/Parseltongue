@@ -11,7 +11,6 @@ For this project I examined Senators’ formal public statements on the Kavanaug
 
 ### process
 
-For this project I examined Senators' formal public statements on the Kavanaugh nomination in the wake of Dr. Christine Blasey Ford's allegation that he attempted to rape her as a teenager. 
 
 I built my corpus for analysis by visiting every single one of the 99* official (and incredibly banal) US Senator websites and searching the term "Kavanaugh" using the search function on the site. I reviewed the first 20 search results** on each website and harvested the first result(s) (up to three) which met my criteria. My criteria were that they be direct, formal press released statements about Kavanaugh issued on or after September 15, 2018 up until the time of my research, which began at 5pm EST on October 5th. Some Senators had few or no formal statements in that period. I did not include in my results any speeches, video, news articles or shows, or op-eds. I only included formal statements, including officially-issued press released comments. For instances in which statements included quoted text and text outside of the quote area, I included only the quote area. 
 
@@ -24,6 +23,8 @@ I opened the XML file in Excel and removed information not relevant to my text m
 I created a second sheet for the statements. It contains the Senators' last name along with date, title and content of the statement. I did a search for quote marks and effectively removed most or all of them. This statement content data is available in a Google Sheet [here](https://docs.google.com/spreadsheets/d/1YBD0VfqaUXuzLL-wHYQzSNpdYurndFbl6qV7Mo2UZ30/edit?usp=sharing).
 
 I joined the two sheets in Tableau (outer join to accomodate future work I may do with this), and used Tableau's filtering capabilities to get four plain text files containing the Democrat's statements, Republican statement, Independant statements, and a consolidation with all statements. The plan is to perform topic modeling on each and compare.
+
+### in the mangle
 
 Mallet wasn't too hard to install following [these instructions](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet#mac-instructions). I input my consolidated Democrat, Republican, and Independant statements and had it output a joined mallet file with stopwords removed. Then I ran train-topics, and here I really don't know what I was doing other than closely following the instructions. It worked? It made the 3 files it was supposed to make – two text files and a compresed .gz file. I have no idea what to do with any of them. Honestly, this is over my head and the explanations on the Mallet site presuppose more familiarity than I have with topic modeling. [Here is a link](https://drive.google.com/open?id=1jy38flWRsvAMdbTnLXnUtHYRBFFrDQzw) to the inputs I fed Mallet and what it gave back to me.
 
