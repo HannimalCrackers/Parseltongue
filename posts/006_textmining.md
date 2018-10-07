@@ -49,12 +49,18 @@ NOTES
 
 
 
+UPDATE 10/7
+
+I wonder if I should be feeding mallet the statements individually, rather than in consolidated text files grouped by party affiliation. I also realized I wanted to have these individually, rather than as cells in a CSV so that I can feed into Voyant and see the comparisons between statements. I don't know how to write macros in Excel, but this seems like a great application for a Python script. I've been trying to learn Python so decided to write a script that would import a CSV and export parts of the individual records as individual text files.
+
+-- how to insert code here other than markdown formatting? --
 
 
+NOTES TO SELF
 
-Should I be using Open Office or some other less proprietary solution than Excel? Maybe. That is a topic for another post.
+Should I be using Open Office or some other less proprietary solution than Excel? Maybe, but I can be more productive with the tools I know and don't have the luxury of time for any unnecessary trial and error on this assignment. That is a topic for another post.
 
-It's valuable to understand that race and gender are categories that aren't always experienced internally the same as they are externally perceived. Still, it's problematic to throw out the categories entirely, lest we should lose why it's unsettling that the major groups of power in America tend to all look like this.  [photo of GOP leaders]
+It's valuable to understand that race and gender are categories that aren't always experienced internally the same as they are externally perceived. Still, it's problematic to throw out the categories entirely, lest we should lose why it's unsettling that the major groups of power in America, the ones making decisions about women's and minorities' lives, tend to all look like this.  [photo of GOP leaders]
 
 
 Hashtags:  the banality of evil
