@@ -50,11 +50,31 @@ NOTES
 
 
 
-UPDATE 10/7
+### update 10/7
 
-I wonder if I should be feeding mallet the statements individually, rather than in consolidated text files grouped by party affiliation. I also realized I wanted to have these individually, rather than as cells in a CSV so that I can feed into Voyant and see the comparisons between statements. I don't know how to write macros in Excel, but this seems like a great application for a Python script. I've been trying to learn Python so decided to write a script that would import a CSV and export parts of the individual records as individual text files.
+I wonder if I should be feeding Mallet the statements individually, rather than in consolidated text files grouped by party affiliation. I also realized I wanted to have these individually, rather than as cells in a CSV, so that I can feed into Voyant and see the comparisons between statements. I don't know how to write macros in Excel, but this seemed like a great application for a Python script. I've been trying to learn Python so decided to write a script that would import a CSV and export parts of the individual records as individual text files.
 
--- how to insert code here other than markdown formatting? --
+I wrote some Python code and got it working (with an assist from Reddit when an extraneous variable was tripping me up, and suggestions on how I could improve a future iteration from Patrick Smyth). I've posted the individual statements here. The filenaming convention is as follows. Filenames start with "D", "R", or "I" to indicate which party the senator belongs to (Democrat/Republican/Independent), followed by the Senator's surname, and a number that kept multiple statementss from the same senator from overwriting each other.
+
+I plan to try analyzing these individual statements tomorrow.
+
+
+
+### update 10/8
+
+I took the statements I broke out in Python and ran them through Voyant. I ran the 56 statements from Democrats separately from the 42 statements from Republicans. I did not analyze the 4 statements from Independents, 3 of which were from Bernie Sanders. 
+
+Voyant seems to be a bit buggy. I added "Kavanaugh," and "judge" to Voyant's default stopword list, as "Judge Kavanaugh" appeared in every single result, but it took a couple of tries and ultimately only worked on the Cirrus tool. Voyant refused to acknowledge my stopword list on the other tools. I'd also attempted to supress "Kavanaugh's", but Voyant kept showing it, including on the Cirrus tool, despite my adding it to the stopwords list. "Fire" is on the default stoplist, and I think it shouldn't be. Voyant also would not honor font changes, though there was a dropdown menu to do so. 
+
+test
+<iframe style='width: 461px; height: 359px;' src='//voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-7ac4b8a0f96e66da8c3a205908e270f9&query=court&query=ford&query=dr&mode=corpus&corpus=f4e058c47489477c95d984d188b85990'></iframe>
+
+
+### text mining tools review
+
+Voyant: buggy, unreliable, sort of fun but about as rigorous as a party game
+Mallet: a machine may have learned something, but I didn't
+
 
 
 NOTES TO SELF
