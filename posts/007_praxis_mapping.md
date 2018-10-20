@@ -14,6 +14,8 @@ Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
 
 ### 2. The Stranger x Weather Mapping Symbols
 
+I am an overly literal creature and this entertains me. 
+
 Weather mapping could do with better ways to show uncertainty.
 
 
