@@ -6,7 +6,7 @@
 
 Friction map
 
-![Friction map](https://imgur.com/a/hi1nTeh)
+![Friction map](http://imgur.com/a/hi1nTeh)
 
 
 Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
