@@ -1,7 +1,9 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
 
-#### [text mining](./posts/006_textmining.md)
+#### [mapping x literature](./posts/007_praxis_mapping.md)
+
+#### [text mining](./posts/006_praxis_textmining.md)
 
 #### [hannimalcrackers.com](./posts/005_hannimalcrackers.md)
 
