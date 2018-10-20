@@ -4,7 +4,7 @@
 
 ### 1. Bartleby x Cost Surface Analysis
 
-Friction map
+Friction map showing Bartleby at desk
 
 ![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_Bartleby_FrictionMap.png)
 
