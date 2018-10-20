@@ -6,8 +6,10 @@
 
 Friction map
 
+https://imgur.com/a/hi1nTeh
 
-Wood grain photo credit:  Photo by rawpixel on Unsplash
+
+Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
 
 
 
