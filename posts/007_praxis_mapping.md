@@ -6,7 +6,7 @@
 
 Friction map
 
-![Friction map](https://imgur.com/a/hi1nTeh)
+![Friction map](https://github.com/HannimalCrackers/parseltongue/img/praxis_Bartleby_FrictionMap.png)
 
 
 Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
