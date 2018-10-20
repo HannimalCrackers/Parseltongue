@@ -25,6 +25,6 @@ Weather mapping could do with better ways to show uncertainty.
 
 
 ####  Maps links out of the way
-![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_illus_bartleb.png)
+![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_illus_bartleby.png)
 
 ![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_illus_thestranger.png)
