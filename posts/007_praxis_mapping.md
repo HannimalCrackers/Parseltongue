@@ -6,7 +6,6 @@
 
 Friction map showing Bartleby at desk
 
-![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_Bartleby_FrictionMap.png)
 
 
 Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
@@ -15,7 +14,15 @@ Photos from Unsplash: wood by rawpixel, brick by Joshua Hoehne
 
 ### 2. The Stranger x Weather Mapping Symbols
 
-
+Weather mapping could do with better ways to show uncertainty.
 
 
 ### 3. Slaughterhouse Five x Deformative GIS
+
+
+
+
+####  Maps links out of the way
+![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_illus_bartleby.png)
+
+![Friction map](https://hannimalcrackers.github.io/parseltongue/img/praxis_illus_thestranger.png)
