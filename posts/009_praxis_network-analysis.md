@@ -9,6 +9,13 @@ The default Circular Layout option rendered an attractive graph with the nodes a
 
 **Discussion**
 
+This graph is not directional, but it would be interesting to create a second graph showing directionality by color coding the edges for in-degree vs. out-degree centrality.
+
+We can see clearly that L. Spiro and S. Hockey had the largest bibliographies.
+
+Loops at a node indicate the author citing themselves. Multiple lines connecting the same two nodes indicate multiple citations of pieces by the same author.
+
+It is easy to see that all of the readings were connected in some way, with the exception of an isolated two-node constellation in the lower left of my graph. This constellation represents "The Humane Digital" by T. Burke, which had only one item (which was by J. Scott) in its bibliography. Neither T. Burke nor J. Scott authored nor were cited in any of the other readings, so they have no connections to the larger graph.
 
 **A finding about names**
 Any name changes, such as due to a change in marital status, will appear as two different people. This predominantly affects women and, without a corrective in place, could make them appear less central in graphed networks.
