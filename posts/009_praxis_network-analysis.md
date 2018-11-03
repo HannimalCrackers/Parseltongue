@@ -1,6 +1,6 @@
 **Introduction**
 
-This praxis project visualizes a network analysis of the bibliographies from the September 4th required readings in our [class syllabus](https://dhintro18.commons.gc.cuny.edu/syllabus/) plus the recommended "Digital Humanities" piece by Professor Gold. My selection of topic was inspired by a feeling of being swamped by PDFs and links that had little easy-to-reference surrounding context or differentiation. Some readings *seemed* to be in conversation with each other, but it was hard to keep track. I wanted a visualization to help clarify points of connection between the readings. This is inherently reductionist and (unless I'm misquoting here, in which case sorry!) it makes Professor Gold "shudder", but charting things out need not replace the things themselves. To me, it's about creating helpful new perspectives from which to consider material.
+This praxis project visualizes a network analysis of the bibliographies from the September 4th required readings in our [class syllabus](https://dhintro18.commons.gc.cuny.edu/syllabus/) plus the recommended "Digital Humanities" piece by Professor Gold. My selection of topic was inspired by a feeling of being swamped by PDFs and links that were accumulating in my "readings" folder with little easy-to-reference surrounding context or differentiation. Some readings *seemed* to be in conversation with each other, but it was hard to keep track. I wanted a visualization to help clarify points of connection between the readings. This is inherently reductionist and (unless I'm misquoting here, in which case sorry!) it makes Professor Gold "shudder", but charting things out need not replace the things themselves. To me, it's about creating helpful new perspectives from which to consider material.
 
 
 **Data prep**
@@ -20,15 +20,9 @@ It is easy to see in this graph that all of the readings were connected in some 
 
 The vast majority of the nodes fall into two concentric circle forms. The outer circle contains the names of those who were cited in only one of the class readings. The inner circle contains those who were cited in more than one reading, including citations by readings-authors of other readings-authors. These inner circle authors have greater out-degree connectedness and therefore more influence in this graphed network than do the outer circle authors. The authors with the highest degree of total connections among the inner circle are Gold, Klein, Kirschenbaum, and Spiro. The inner circle is a hub of interconnected digital humanities activity.
 
-We can see clearly that Spiro and Hockey had comparitively extensive bibliographies, but that Spiro's work has many more connections to the inner circle digital humanities hub. This is likely at least partly due to the fact that Hockey's piece is from 2004, while the rest of the readings are from 2012 or 2016 (plus one which will be published next year in 2019). It's possible that some of the other authors may not have been yet publishing related work when Hockey was writing her piece in the early 2000's. Six of our readings were from 2012, the year of Spiro's piece. This implies a much richer and more interconnected conversation about the digital humanities developed at some point between 2004 and 2012.
+We can see that Spiro and Hockey had comparitively extensive bibliographies, but that Spiro's work has many more connections to the inner circle digital humanities hub. This is likely at least partly due to the fact that Hockey's piece is from 2004, while the rest of the readings are from 2012 or 2016 (plus one which will be published next year in 2019). One possible factor, some of the other authors may not have been yet publishing related work when Hockey was writing her piece in the early 2000's. Six of our readings were from 2012, the year of Spiro's piece. Perhaps a much richer and more interconnected conversation about the digital humanities developed at some point between 2004 and 2012.
 
-
-
-This network analysis and visualization is useful for me as a mnemonic aide for keeping the readings straight. It can also indicate to the student of DH which authors one may find it useful to read more of or follow on Twitter.
-
-
-Shows network of influence
-Having your work cited by another author 
+This network analysis and visualization is useful for me as a mnemonic aide for keeping the readings straight. It can also serve to refer a student of the digital humanities to authors they may find it useful to read more of or follow on Twitter.
 
 
 **A finding about names**
@@ -38,9 +32,10 @@ There are instances where people may have published with different sets of initi
 
 
 **Potential problems with my visualization**
-Doesn't distinguish between authors and editors
-Had to split apart collaborative works into individual authors
-Doesn't include works that had no author or editor listed
+I would like to learn to what extent the following are problematic and what remedies may exist. My network analysis graph:
+* Doesn't distinguish between authors and editors
+* Had to split apart collaborative works into individual authors
+* Doesn't include works that had no author or editor listed
 
 
 
