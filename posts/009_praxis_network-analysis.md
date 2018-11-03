@@ -1,23 +1,25 @@
-Situating Autism in Case Law Space
 
-Using Illinois case law data because bulk download available for that jurisdiction (also available for Arkansas).   
-https://case.law/bulk/
+I used Cytoscape, aided by Miram Posner's clear and helpful tutorial [https://github.com/miriamposner/cytoscape_tutorials]. 
 
 
-It would be interesting to do a network analysis of the digital humanities Twitter community.
 
-
+Potential problems with my visualization:
 Doesn't distinguish between authors and editors
 Had to split apart collaborative works into individual authors
 Doesn't include works that had no author or editor listed
 
 
-Manual cleanup to format all names the same, potential for error to have been introduced
+Manual cleanup so all names followed the same format, which is a potential point for the introduction of error. For items with summarized "et al" authorship, I looked up and included all author names.
 
 
-Names
-Name changes, such as due to a change in marital status, will appear as two different people. This predominantly affects women and, without a corrective in place, could make them appear less central in graphed networks.
 
-There are instances where people may have published with different initials. In the bibliography to Hockey's 'The History of Humanities Computing,' an article by 'Wisbey, R.' is listed just above a collection edited by 'Wisbey, R. A.' These may be the same person but it is not clear. 'Robinson, P.' and 'Robinson, P. M. W.' are separately listed authors for works about Chaucer and are likely the same person, but from the data alone I cannot be 100% certain. I chose to not manually intervene nor consolidate any entries. It seems too selective to do so only with the name variations I notice but not to do so for less obvious name changes, such as the marital ones.
+A finding about names
+Any name changes, such as due to a change in marital status, will appear as two different people. This predominantly affects women and, without a corrective in place, could make them appear less central in graphed networks.
 
-However, I still have another issue with personal names. The majority of bibiographies in the set I examined give the person's full first and last name.
+There are instances where people may have published with different sets of initials. In the bibliography to Hockey's 'The History of Humanities Computing,' an article by 'Wisbey, R.' is listed just above a collection edited by 'Wisbey, R. A.' These may be the same person but it cannot be determined with certainty from the bibliography data alone. Likewise, 'Robinson, P.' and 'Robinson, P. M. W.' are separately listed authors for works about Chaucer. These are likely the same person, but without further research I cannot be 100% certain. I chose to not manually intervene and so these entries remain separate.
+
+
+
+Visualizing helped me identify and fix errors in the data, such as an extra space causing two otherwise identical names to display separately.
+
+The default Circular Layout option rendered an attractive graph with the nodes arranged around a perfect circle, however the labels overlapped and many were completely illegible. To fix the overlapping I individually adjusted the placement of the nodes, dragging alternating nodes either toward or away from the center to create room for each label to appear in its own space.
