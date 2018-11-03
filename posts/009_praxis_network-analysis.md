@@ -7,9 +7,18 @@ This praxis project visualizes a network analysis of the bibliographies from the
 
 I copy/pasted author names from the bibliographies of each reading into a spreadsheet. Data cleaning (and a potential point for the introduction of error) consisted of manually editing names as needed to make all follow the same format (last name, first initial). For items with summarized "et al" authorship, I looked up and included all author names.
 
-I performed the network analysis in Cytoscape, aided by Miram Posner's clear and [helpful tutorial] (https://github.com/miriamposner/cytoscape_tutorials). Visualizing helped me identify and fix errors in the data, such as an extra space causing two otherwise identical names to display separately.
+I performed the network analysis in Cytoscape, aided by Miram Posner's clear and [helpful tutorial](https://github.com/miriamposner/cytoscape_tutorials). Visualizing helped me identify and fix errors in the data, such as an extra space causing two otherwise identical names to display separately.
 
 The default Circular Layout option in the "default black" style rendered an attractive graph with the nodes arranged around two perfect circles, but unfortunately the labels overlapped and many were illegible. To fix the overlapping I individually adjusted the placement of the nodes, dragging alternating nodes either toward or away from the center to create room for each label to appear and be readable in its own space. I also changed the label color from gray to white for improved contrast.
+
+
+**Network Analysis Graphs**
+
+Click the placeholder image below and a high-res version will open in a new tab. You can zoom in and read all labels on the high-res file.
+
+[Image placeholder](https://i.imgur.com/hoRxEI4.png)
+
+An interactive version of my graph is available on CyNetShare, though unfortunately that platform is stripping out my styling. The unstyled, harder-to-read, but interactive version can be seen [here](http://cynetshare.ucsd.edu/#/https%253A%252F%252Fgist.githubusercontent.com%252FHannimalCrackers%252Fc01bbeb15c5924e9eb3493c48ee921ab%252Fraw%252F1dc5106744a9445884a88f9d4b89cee0b3333e51%252Fpraxis_network-analysis_181103.cyjs).
 
 
 **Discussion**
