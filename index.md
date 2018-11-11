@@ -1,7 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
 
-#### [mapping x literature](./posts/007_praxis_mapping.md)
+#### [intro to DH posts](./posts/006_DHUM_70000.md)
 
 #### [text mining](./posts/006_praxis_textmining.md)
 
