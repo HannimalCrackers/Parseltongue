@@ -37,6 +37,16 @@ Further, I wonder if facilitating interpretation through geo tagging named locat
 
 &nbsp;
 
+#### A little more about the map
+
+I created the map at the beginning of this post by downloading the TEI-tagged Open Editions XML file and running it through BeautifulSoup using Python. I pulled all of the geo tags into a CSV, then loaded them into Carto to build the map.
+
+One advantage of hosting the Open Editions on GitHub is that people can create their own parallel versions with which to work. In my copy of the text I created an additional category to track whether the places with geo tags were Stephen’s current location, places he was remembering, or places he was imagining. A version of the animated map that reflects this categorization is below (orange is current location, yellow is memory, purple is imagined). 
+
+[map coming in a few minutes]
+
+&nbsp;
+
 #### Closing thoughts
 
 TEI tagging provides a quick road in to many interesting stories about a text. Equally interesting is searching for the stories tags elide. This can be a valuable two-part exercise for a class who has been given a TEI text to explore. Students may be asked to use the tags to analyze a text, but also provide a brief writeup of what the analysis can’t take into account by virtue of relying on tags alone. It’s good to cultivate mindfulness around the limitations inherent in the creation of data, especially with human creative works.
