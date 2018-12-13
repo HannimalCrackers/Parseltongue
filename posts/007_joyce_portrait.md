@@ -43,7 +43,9 @@ I created the map at the beginning of this post by downloading the TEI-tagged Op
 
 One advantage of hosting the Open Editions on GitHub is that people can create their own parallel versions with which to work. In my copy of the text I created an additional category to track whether the places with geo tags were Stephen’s current location, places he was remembering, or places he was imagining. A version of the animated map that reflects this categorization is below (orange is current location, yellow is memory, purple is imagined). 
 
-[map coming in a few minutes]
+&nbsp;
+  {% include joycemap.html %}
+&nbsp; 
 
 &nbsp;
 
