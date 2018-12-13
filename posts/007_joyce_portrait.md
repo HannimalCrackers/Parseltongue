@@ -1,8 +1,7 @@
-# TEI and Mapping James Joyce's *Portrait*
-
 ## TEI and Mapping James Joyce's *Portrait*
 
-### TEI and Mapping James Joyce's *Portrait*
+&nbsp;
+&nbsp;
 
 #### Introduction
 
