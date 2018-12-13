@@ -5,8 +5,6 @@
 
 #### [intro to DH posts](./posts/006_dhum_70000.md)
 
-#### [text mining](./posts/006_praxis_textmining.md)
-
 #### [hannimalcrackers.com](./posts/005_hannimalcrackers.md)
 
 #### [google vision sees things](./posts/004_googlevision.md)
