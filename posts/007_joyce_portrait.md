@@ -1,3 +1,5 @@
 #### TEI and Mapping James Joyce's *Portrait*
 
-<div style='position:relative; padding-bottom:61.54%'><iframe src='https://gfycat.com/ifr/ReadyThoseGreendarnerdragonfly' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+&nbsp;
+  {% include aidash-locations.html %}
+&nbsp; 
