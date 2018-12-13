@@ -1,7 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
 
-#### [TEI and Mapping James Joyce's *Portrait*](007_joyce_portrait.md)
+#### [TEI and Mapping James Joyce's *Portrait*](./posts/007_joyce_portrait.md)
 
 #### [intro to DH posts](./posts/006_dhum_70000.md)
 
