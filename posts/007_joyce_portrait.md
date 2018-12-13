@@ -16,12 +16,10 @@ This map was created from the Open Editions version of *A Portrait of the Artist
 
 In this post I will briefly explore (1) TEI as a process of data creation, and (2) how TEI encoding facilitates some interpretations of place but not others.
 
-&nbsp;
 
 #### TEI as data creation
 Tagging a text with TEI is data creation at its most explicit, and data creation is never neutral. Data do not exist independently of a decision to classify them as such. By inserting tags into a text we are privileging the information enclosed in the tags. Our decisions, when deciding what will be data, make specific kinds of analysis easier and thereby reduce friction to certain ways of knowing.
 
-&nbsp;
 
 #### TEI place tagging in Portrait
 The Open Editions are designed to be community projects and they are works in progress. Many people have contributed to the tagging, including students in a course taught by Jonathan Reeve. Some of the tags currently in use in A Portrait of the Artist as a Young Man specify which character is speaking, what language they are speaking, or indicate songs. There are also tags for places and locations mentioned in the text. Tagging places and locations presents an interesting set of challenges and choices.
@@ -35,7 +33,6 @@ Another of the many questions when tagging places and locations – what to tag?
 
 Further, I wonder if facilitating interpretation through geo tagging named locations obscures a more intimate reading of place. There are currently no tags that mark Stephen’s time in kitchens or on porches, though they are mentioned 12 and 9 times respectively in the text. Likewise, no tags mark when Stephen is indoors vs outdoors.
 
-&nbsp;
 
 #### A little more about the map
 
@@ -47,7 +44,6 @@ One advantage of hosting the Open Editions on GitHub is that people can create t
   {% include joycemapcolors.html %}
 &nbsp; 
 
-&nbsp;
 
 #### Closing thoughts
 
