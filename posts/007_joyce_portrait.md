@@ -12,7 +12,7 @@ Let’s start with something fun. This map shows young Stephen Dedalus as he thi
   {% include joycemap.html %}
 &nbsp; 
 
-This map was created from the Open Editions version of A Portrait of the Artist as a Young Man created by Jonathan Reeve and Hans Walter Gaber. Open Editions are XML files that are tagged according to the conventions of the Text Encoding Initiative (TEI), a customizable markup convention designed to facilitate automated parsing of texts.
+This map was created from the Open Editions version of *A Portrait of the Artist as a Young Man*, created by Jonathan Reeve and Hans Walter Gaber. Open Editions are XML files that are tagged according to the conventions of the Text Encoding Initiative (TEI), a customizable markup convention designed to facilitate automated parsing of texts.
 
 In this post I will briefly explore (1) TEI as a process of data creation, and (2) how TEI encoding facilitates some interpretations of place but not others.
 
