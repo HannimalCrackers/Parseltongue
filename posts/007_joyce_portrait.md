@@ -36,6 +36,8 @@ Another of the many questions when tagging places and locations – what to tag?
 
 Further, I wonder if facilitating interpretation through geo tagging named locations obscures a more intimate reading of place. There are currently no tags that mark Stephen’s time in kitchens or on porches, though they are mentioned 12 and 9 times respectively in the text. Likewise, no tags mark when Stephen is indoors vs outdoors.
 
+&nbsp;
+
 #### Closing thoughts
 
 TEI tagging provides a quick road in to many interesting stories about a text. Equally interesting is searching for the stories tags elide. This can be a valuable two-part exercise for a class who has been given a TEI text to explore. Students may be asked to use the tags to analyze a text, but also provide a brief writeup of what the analysis can’t take into account by virtue of relying on tags alone. It’s good to cultivate mindfulness around the limitations inherent in the creation of data, especially with human creative works.
