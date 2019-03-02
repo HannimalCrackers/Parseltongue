@@ -2,13 +2,14 @@
 
 Searching for datasets for MALS 75500 project.
 
-
+-
 ****TECHNOLOGY****
 
 Using [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl/related?hl=en) Chrome extension to create screen grabs of contents of page so I can compare downloaded contents to what was displayed later.
 
 Using [Downloader for Instagram](https://chrome.google.com/webstore/detail/downloader-for-instagram/olkpikmlhoaojbbmmpejnimiglejmboe/related) Chrome Extension to download all instagram photos from accounts. Encountering something unexpected.
 
+-
 ****TECH DISCREPANCY****
 
 As of today, Alexandria Ocasio-Cortez's instagram says it has 382 posts, but the downloader identified 382, but then it downloaded 459 items. I tested with my own account and the number of items it says are posted exactly matched the number the downloader identifies. Meanwhile, the NYC Gov account says it has 374, the downloader said there were 371, but the downloader downloaded 387.
@@ -16,6 +17,7 @@ As of today, Alexandria Ocasio-Cortez's instagram says it has 382 posts, but the
 Weird. I'm curious about the extra images (extra AOC images particularly). 
 
 
+-
 ****DATASET****
 
 Downloading all image posts from official Instagram accounts of top 10 cities in USA, as per wikipedia:
@@ -40,32 +42,32 @@ Chicago
 - no offical city instagram (only mayor's office instagram)
 
 Houston
-- official website
-- official instagram
+- official website: https://houstontx.gov
+- official instagram: https://www.instagram.com/houston/
 - instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+- instagram lists 169 posts, downloader downloaded 190
 
 Phoenix
-- official website
-- official instagram
+- official website: https://www.phoenix.gov
+- official instagram: https://www.instagram.com/cityofphoenixaz/
 - instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+- instagram lists 2,327 posts, downloader downloaded 2,560
 
 Philadelphia
-- official website
-- official instagram
+- official website: https://www.phila.gov
+- official instagram: https://www.instagram.com/cityofphiladelphia/
 - instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+- instagram lists 334 posts, downloader downloaded 400
 
 San Antonio
-- official website
-- official instagram
+- official website: https://www.sanantonio.gov
+- official instagram: https://www.instagram.com/cosagov/
 - instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+- instagram lists 413 posts, downloader downloaded 528
 
 San Diego
-- official website
-- official instagram
+- official website: https://www.sandiego.gov
+- official instagram: https://www.instagram.com/thecityofsandiego/
 - instagram account linked from city site homepage
 - instagram lists 265 posts, downloader downloaded xx
 
