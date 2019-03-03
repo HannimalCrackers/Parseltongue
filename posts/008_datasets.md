@@ -82,3 +82,12 @@ Dallas - NEED TO VERIFY
 San Jose - NONE
 - official website: http://www.sanjoseca.gov
 - NO city level official instagram per http://www.sanjoseca.gov/index.aspx?NID=2425
+
+
+-
+****EVALUATION****
+
+Human scale
+Human perspective
+Relatable to humans, like food or pets
+Social events / sports
