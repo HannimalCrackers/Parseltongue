@@ -19,7 +19,8 @@ As of today, Alexandria Ocasio-Cortez's instagram says it has 382 posts, but the
 Weird. I'm curious about the extra images (extra AOC images particularly). 
 
 
---
+<br>
+
 ****DATASET****
 
 Downloading all image posts from official Instagram accounts of top 10 cities in USA, as per wikipedia:
@@ -86,7 +87,8 @@ San Jose - NONE
 - NO city level official instagram per http://www.sanjoseca.gov/index.aspx?NID=2425
 
 
---
+<br>
+
 ****EVALUATION****
 
 Human scale
