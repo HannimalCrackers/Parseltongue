@@ -24,6 +24,8 @@ Downloading all image posts from official Instagram accounts of top 10 cities in
 https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
 New York, LA, Chicago, Houston, Phoenix, Philadelphia, San Antonio, San Diego, Dallas, San Jose
 
+Only looking for top-level city instagram accounts, not accounts affiliated with a specific department or office.
+
 
 New York
 - official website: https://www1.nyc.gov
@@ -31,15 +33,15 @@ New York
 - instagram account linked from: https://www1.nyc.gov/connect/social-media.page
 - instagram lists 374 posts, downloader downloaded 387
 
-Los Angeles
+Los Angeles - NEED TO VERIFY
 - ?? official website: https://www.lacity.org - why is this a .org instead of a .gov?
 - ?? official instagram unclear, this one claims to be official: https://www.instagram.com/losangeles_city/?hl=en
 - only a few instagram accounts specifically for Parks, DOT, etc mentioned on city site
 - instagram lists 1,577 posts, downloader downloaded 1,577
 
-Chicago
+Chicago - NONE
 - official website: https://www.chicago.gov/city/en.html
-- no offical city instagram (only mayor's office instagram)
+- NO offical city instagram 
 
 Houston
 - official website: https://houstontx.gov
@@ -71,14 +73,12 @@ San Diego
 - instagram account linked from city site homepage
 - instagram lists 265 posts, downloader downloaded 394
 
-Dallas
+Dallas - NEED TO VERIFY
 - official website: https://dallascityhall.com/Pages/default.aspx  (this is a .com for some reason)
 - official instagram: probably https://www.instagram.com/dallascityhall/?hl=en
-- no instagram account linked from city site homepage, but some posts from dallascityhall insta account are in their social media archive
+- social media links on city site homepage do not include instagram, but some posts from dallascityhall insta account are in their social media archive
 - instagram lists 157 posts, downloader downloaded 191
 
-San Jose
-- official website
-- official instagram
-- instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+San Jose - NONE
+- official website: http://www.sanjoseca.gov
+- NO city level official instagram per http://www.sanjoseca.gov/index.aspx?NID=2425
