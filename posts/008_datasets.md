@@ -69,13 +69,13 @@ San Diego
 - official website: https://www.sandiego.gov
 - official instagram: https://www.instagram.com/thecityofsandiego/
 - instagram account linked from city site homepage
-- instagram lists 265 posts, downloader downloaded xx
+- instagram lists 265 posts, downloader downloaded 394
 
 Dallas
-- official website
-- official instagram
-- instagram account linked from city site homepage
-- instagram lists xx posts, downloader downloaded xx
+- official website: https://dallascityhall.com/Pages/default.aspx  (this is a .com for some reason)
+- official instagram: probably https://www.instagram.com/dallascityhall/?hl=en
+- no instagram account linked from city site homepage, but some posts from dallascityhall insta account are in their social media archive
+- instagram lists 157 posts, downloader downloaded 191
 
 San Jose
 - official website
