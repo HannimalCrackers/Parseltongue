@@ -97,4 +97,4 @@ Human perspective
 
 Relatable to humans, like food or pets
 
-Social events / sports
+Social events / sports / parades
