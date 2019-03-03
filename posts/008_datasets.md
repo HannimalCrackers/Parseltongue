@@ -97,4 +97,39 @@ Human perspective
 
 Relatable to humans, like food or pets
 
+Embodiment?
+
+
+<br>
+
+****THINGS DEPICTED****
+
 Social events / sports / parades
+
+Flowers
+
+Empty streets, parks and plazas
+
+Emptiness
+
+Skylines
+
+Public art
+
+Seasonal / holiday (pumpkins, easter eggs, fireworks)
+
+Typographic messages
+
+Infrastructure
+
+Groups or teams that won something
+
+Drone / aerial shots
+
+Landmark buildings
+
+Weather events
+
+Government proceedings or press events
+
+Historic photos
