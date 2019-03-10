@@ -16,7 +16,7 @@ Using [Downloader for Instagram](https://chrome.google.com/webstore/detail/downl
 
 As of today, Alexandria Ocasio-Cortez's instagram says it has 382 posts, but the downloader identified 382, but then it downloaded 459 items. I tested with my own account and the number of items it says are posted exactly matched the number the downloader identifies. Meanwhile, the NYC Gov account says it has 374, the downloader said there were 371, but the downloader downloaded 387.
 
-Weird. I'm curious about the extra images (extra AOC images particularly). 
+Andie suggested this may be due to multiple photos in posts, which makes sense except my account has some posts with multiple photos and my numbers match exactly. Need to resolve this. 
 
 
 <br>
@@ -133,3 +133,38 @@ Weather events
 Government proceedings or press events
 
 Historic photos
+
+<br>
+-------------------
+<br>
+
+3/10/19
+
+Was trying to make a project around photo framing and subject distance in public officials instagram accounts work, but that involves manually tagging and capturing likes / number of comments for each image on multiple accounts which is turning out too labor intensive for the timeframe I have to work with. So back to the city datasets.
+
+Instagram has some weird coding for the images. Both exporting my own account using Instagram's downloader and using the downloader plug-in results in jpegs that were me trouble with the Google Vision API last week, though today I'm not getting an error.
+
+Research argument: AI is an audience, and AI can only do distant reading. What are our big cities saying about themselves to AI?
+
+Ideally I can run my images through multiple AIs. Not sure I'll have time though.
+
+****Next steps****
+1. select 5 images to test (pick from multiple city sets). Calling this TEST-SET-A
+2. convert images to PNG in Photoshop. Calling this TEST-SET-B
+3. create cloud buckets for test sets A and B
+4. develop python script to interact with Google Vision API and pull content lables only
+5. test script on test set B and refine until works
+6. once script working on test set B, try it on test set A to see if I can use Instagram images as downloaded or if they need to be resaved
+7. confirm which city image sets are valid data for this project
+8. upload each city into separate cloud bucket
+9. run script on each bucket
+10. write python script (possibly using pandas) to compile results into csv
+11. explore and analyze results using Tableau visualizations
+12. write up 
+
+<br>
+
+****Stages of data****
+1. as-downloaded
+2. unsure if needed: resaved, converted into png
+3. 
