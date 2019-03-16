@@ -220,3 +220,9 @@ Now I need to modify the script to pull images from my test buckets online and r
 Not having an easy time trying to figure out how to get the label detection to run on all the images in a google cloud bucket. Made both buckets public.
 
 Giving up on the buckets for now. May be easier to run the code bit that was working on a folder of images. Researching how to do that. My first foray into Bash!
+
+****Bash Bash Bash****
+```find /Users/hhouse/Desktop/DATASETS/MALS-75500/API-tests/mals75500_testset-b -name "*.png" -exec python /Users/hhouse/Projects/GoogleVision/VirtualEnv/env/script_label-local_190316_v1.py {} \;```
+
+
+
