@@ -213,4 +213,10 @@ Perching bird
 
 <br>
 
-Now I need to modify the script to pull images from my test buckets online and return results as a csv or a json file.
+Now I need to modify the script to pull images from my test buckets online and return results as a csv or a json file. Also, the sample script only returned labels without the probability scores. Need to decide if I want the probability scores.
+
+<br>
+
+Not having an easy time trying to figure out how to get the label detection to run on all the images in a google cloud bucket. Made both buckets public.
+
+Giving up on the buckets for now. May be easier to run the code bit that was working on a folder of images. Researching how to do that. My first foray into Bash!
