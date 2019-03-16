@@ -187,5 +187,8 @@ Everything is going unusually smoothly.
 
 I hope I set my configuration path correctly. Didn't get any acknowledgement message.
 
+****Creating / uploading test images****
+
 Set up storage buckets per my next steps above. Using bucket-level permissions. Did the PNG conversion for mals75500_testset-b and uploaded both image test sets to buckets.
 
+****Next step: write script****
