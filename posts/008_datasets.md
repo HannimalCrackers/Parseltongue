@@ -187,9 +187,13 @@ Everything is going unusually smoothly.
 
 I hope I set my configuration path correctly. Didn't get any acknowledgement message.
 
+<br>
+
 ****Creating / uploading test images****
 
 Set up storage buckets per my next steps above. Using bucket-level permissions. Did the PNG conversion for mals75500_testset-b and uploaded both image test sets to buckets.
+
+<br>
 
 ****Test script with local image****
 
@@ -221,7 +225,12 @@ Not having an easy time trying to figure out how to get the label detection to r
 
 Giving up on the buckets for now. May be easier to run the code bit that was working on a folder of images. Researching how to do that. My first foray into Bash!
 
+<br>
+
 ****Bash Bash Bash****
+
+<br>
+
 ```find /Users/hhouse/Desktop/DATASETS/MALS-75500/API-tests/mals75500_testset-b -name "*.png" -exec python /Users/hhouse/Projects/GoogleVision/VirtualEnv/env/script_label-local_190316_v1.py {} \;```
 
 
