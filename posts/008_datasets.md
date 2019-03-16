@@ -212,3 +212,5 @@ Nail
 Perching bird
 
 <br>
+
+Now I need to modify the script to pull images from my test buckets online and return results as a csv or a json file.
