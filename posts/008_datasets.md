@@ -176,10 +176,16 @@ Ideally I can run my images through multiple AIs. Not sure I'll have time though
 ****Setting up env and installing Google Cloud SDK****
 
 First set up an env in anaconda, but didn't see a google cloud package so abandoned this route
+
 Upgraded virtual env and pip using command line
+
 Set up virutal env using command line (location: Projects/GoogleVision/VirtualEnv). Had to specify python 3 or I got a permisison denied error.
+
 Installed Google Cloud SDK in the environment. Made new configuration called mals75500-cities. Also created new project called mals75500-cities. Using the same name might make this easier or might bite me later.
+
 Everything is going unusually smoothly.
+
 I hope I set my configuration path correctly. Didn't get any acknowledgement message.
+
 Set up storage buckets per my next steps above. Using bucket-level permissions. Did the PNG conversion for mals75500_testset-b and uploaded both image test sets to buckets.
 
