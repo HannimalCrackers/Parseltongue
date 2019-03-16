@@ -191,4 +191,24 @@ I hope I set my configuration path correctly. Didn't get any acknowledgement mes
 
 Set up storage buckets per my next steps above. Using bucket-level permissions. Did the PNG conversion for mals75500_testset-b and uploaded both image test sets to buckets.
 
-****Next step: write script****
+****Test script with local image****
+
+Created python script in my env using sample code on the Google Vision API Client Libraries page. Pointed it to a local test image. Ran the python script from the command line and it worked! My test image was the baby sugar glider I call "the thing." Results returned by the script were as follows.
+
+Labels:
+
+Hand
+
+Bird
+
+Pygmy slow loris
+
+Finger
+
+Beak
+
+Nail
+
+Perching bird
+
+<br>
