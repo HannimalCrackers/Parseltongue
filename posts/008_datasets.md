@@ -229,9 +229,20 @@ Giving up on the buckets for now. May be easier to run the code bit that was wor
 
 ****Bash Bash Bash****
 
+```find /Users/hhouse/Desktop/DATASETS/MALS-75500/API-tests/mals75500_testset-b -name "*.png" -exec python /Users/hhouse/Projects/GoogleVision/VirtualEnv/env/test.py {} \;```
+
+My bash party isn't panning out. I have the script and images in two separate places. The script needs to identify the image path, but it's picking up the script path (test3.py). Just going to chuck that script in the folder with the images for now as a workaround. Also I lost my authentication when I restarted Terminal.
+
+I think the authentication command below needs to be run outside of virtual env at the root directory to take hold.
+
+```export GOOGLE_APPLICATION_CREDENTIALS="/Users/hhouse/Projects/GoogleVision/GoogleVisionAPI/service-account-key/sacred-flash-207403-e10eed646ea0.json"```
+
 <br>
 
-```find /Users/hhouse/Desktop/DATASETS/MALS-75500/API-tests/mals75500_testset-b -name "*.png" -exec python /Users/hhouse/Projects/GoogleVision/VirtualEnv/env/script_label-local_190316_v1.py {} \;```
+3/17/19
+
+My JSON dump isn't working (test6.py). Just going to try getting it all into a dictionary.
+
 
 
 
