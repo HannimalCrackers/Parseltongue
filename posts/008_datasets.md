@@ -260,3 +260,22 @@ My dict is coming into the CSV with everything on one line. (test7.py, I think).
 test8.py is writing each label onto a new line, but is only working on one image. Not writing labels for all the images. Maybe this is a "with open" thing? Moved "with open" out above the for loop and it works (test9.py)!
 
 Now I need to shape these results. Would be tricky with GV returning different numbers of results for different pictures, but I already have the results stacking so I think that's good. Just need to get the dict keys moved out into column headers. Pandas time!
+
+Hmmm, maybe the results should come in as a list instead of a dictionary. Testing this quickly (test9b.py). That's better. I need to get the brackets out. Pandas isn't recognizing the columns. I'm going to have to do this in Excel to save time.
+
+Excel transformation is a success! Pandas is recognizing it as columns now. Though do I need Pandas now? The Excel CSV is probably in the shape I need. Going to run test9b.py on the full NYC set of images.
+
+Ugh, getting a weird error. Somehow the script is looking for the dallas image, even though it's not in the NYC folder and it's not referenced in the script. I'm guessing this is related to the image being loaded into memory, maybe. I'm just going to restart. If that doesn't work, I'm baffled.
+
+```  File "label-getter.py", line 22, in <module>
+    with io.open(file, 'rb') as image_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'dallascityhall_914592_483119911793376_1693008057_n.png'```
+
+
+****Data journey****
+
+1. Creation: download from Instagram using plug-in
+2. Python script (test9b.py, renaming label-getter.py) - to get labels from Google Vision
+3. Excel - remove brackets, remove quotes, replace comma-space with just comma, split column on comma, save as CSV
+4. Python script (
+
