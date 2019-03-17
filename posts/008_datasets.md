@@ -183,7 +183,7 @@ Set up virutal env using command line (location: Projects/GoogleVision/VirtualEn
 
 Installed Google Cloud SDK in the environment. Made new configuration called mals75500-cities. Also created new project called mals75500-cities. Using the same name might make this easier or might bite me later.
 
-Everything is going unusually smoothly.
+Everything is going unusually smoothly. *<<note from the future: that didn't last long*
 
 I hope I set my configuration path correctly. Didn't get any acknowledgement message.
 
