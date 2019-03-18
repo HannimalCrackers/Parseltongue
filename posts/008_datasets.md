@@ -263,19 +263,28 @@ Now I need to shape these results. Would be tricky with GV returning different n
 
 Hmmm, maybe the results should come in as a list instead of a dictionary. Testing this quickly (test9b.py). That's better. I need to get the brackets out. Pandas isn't recognizing the columns. I'm going to have to do this in Excel to save time.
 
-Excel transformation is a success! Pandas is recognizing it as columns now. Though do I need Pandas now? The Excel CSV is probably in the shape I need. Going to run test9b.py on the full NYC set of images.
+Excel transformation is a success! Pandas is recognizing it as columns now. Though do I need Pandas now? The Excel CSV is probably in the shape I need. Going to run test9b.py (remaned to label-getter.py) on the full NYC set of images.
 
-Ugh, getting a weird error. Somehow the script is looking for the dallas image, even though it's not in the NYC folder and it's not referenced in the script. I'm guessing this is related to the image being loaded into memory, maybe. I'm just going to restart. If that doesn't work, I'm baffled.
-
-```  File "label-getter.py", line 22, in <module>
-    with io.open(file, 'rb') as image_file:
-FileNotFoundError: [Errno 2] No such file or directory: 'dallascityhall_914592_483119911793376_1693008057_n.png'```
+Running individual label-getter.py scripts for each city on the image sets. Takes a while. Excel is being a CHAMP. Phoenix has a large set. Excel just cheerily removed 105,942 quote marks in 1 or 2 seconds. "All done. We made 105942 replacements."
 
 
 ****Data journey****
 
-1. Creation: download from Instagram using plug-in
-2. Python script (test9b.py, renaming label-getter.py) - to get labels from Google Vision
-3. Excel - remove brackets, remove quotes, replace comma-space with just comma, split column on comma, save as CSV
-4. Python script (
+1. Creation: download from Instagram using plug-in. Not "raw" because who knows what compressions it went through in user upload or by instagram. Also user may have cropped, used filters, or otherwise altered.
+2. Python script (test9b.py, renaming label-getter.py) - to get labels from Google Vision. The path to the directory with images and the output filename are hard coded into the script. Change these for each city. Output of python script is the CSV.
+3. Excel - remove brackets, remove quotes, replace comma-space with just comma, split column on comma. Manually add column with city name. Manually add header row with field labels [city, imagename, label, confidence, mid], save as CSV
+4. Tableau - used to explore the data and make visualizations
 
+
+<br>
+
+****Choices made in data****
+
+ignores mp4s
+
+
+<br>
+
+****Findings****
+
+Did test where I shrank NYC image set images to 25% (took screen grab of exact settings used). This resulted in fewer nature features being identified. Full size versions had higher rankings for sky, trees, water, cloud, etc.
