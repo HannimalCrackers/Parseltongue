@@ -288,3 +288,7 @@ ignores mp4s
 ****Findings****
 
 Did test where I shrank NYC image set images to 25% (took screen grab of exact settings used). This resulted in fewer nature features being identified. Full size versions had higher rankings for sky, trees, water, cloud, etc.
+
+<br>
+
+Left off with Phoenix. Need to remove mp4s from NYC, NYC_25pct, and Houston.
