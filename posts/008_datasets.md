@@ -299,6 +299,4 @@ Left off with Phoenix. Need to remove mp4s from NYC, NYC_25pct, and Houston.
 
 ****190325****
 
-TO DO: re-save the 25% versions in one step, re-run script and data transformations, re-upload to GitHub
-
 Clean up script (remove JSON and maybe other imports)
