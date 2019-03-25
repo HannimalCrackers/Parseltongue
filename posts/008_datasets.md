@@ -292,3 +292,13 @@ Did test where I shrank NYC image set images to 25% (took screen grab of exact s
 <br>
 
 Left off with Phoenix. Need to remove mp4s from NYC, NYC_25pct, and Houston.
+
+
+
+<br>
+
+****190325****
+
+TO DO: re-save the 25% versions in one step, re-run script and data transformations, re-upload to GitHub
+
+Clean up script (remove JSON and maybe other imports)
